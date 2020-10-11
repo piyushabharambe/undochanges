@@ -1,0 +1,1 @@
+print("{0}and{1}".format(20,40))
